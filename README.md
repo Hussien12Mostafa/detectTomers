@@ -4,7 +4,7 @@
 
 # run code
 
-go to my kaggle and see code and run it 
+go to my kaggle and see code and run it  link kaggle : https://www.kaggle.com/code/hussienawad/brain-tumor-prediction/notebook
 
 # Prerequisites
 List any software, libraries, or tools that users need to have installed before they can use your project. For example:
